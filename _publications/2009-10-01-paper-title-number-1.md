@@ -6,5 +6,7 @@ excerpt: ''
 date: 2021
 venue: 'ISIT 2021'
 paperurl: ''
-citation: 'A. J. George and N. Kashyap, “An MCMC method to sample from lattice distributions,” In IEEE International Symposium on Information Theory (ISIT), 2021.'
+citation: 'A. J. George and N. Kashyap, &quot;An MCMC method to sample from lattice distributions,&quot; <i>ISIT 2021</i>'
+
 ---
+
