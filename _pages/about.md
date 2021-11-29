@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ======
-I am a recent MTech. graduate in Signal Processing from Electrical Engineering department at Indian Institute of Science, Bangalore. I currently work with Dr. Cl\'ement Canonne (University of Sydney). I am broadly interested in the theoretical aspects of statistical inference. I did my master's thesis on Markov Chain Monte Carlo algorithms under the guidance of Pof. Navin Kashyap. You can find my CV here. 
+I am a recent MTech. graduate in [Signal Processing](https://ee.iisc.ac.in/m-tech-programme-signal-processing/) from Electrical Engineering department at Indian Institute of Science (IISc), Bangalore. I am currently working on a research project with [Dr. Clément Canonne](https://ccanonne.github.io/) (University of Sydney). I am broadly interested in the theoretical aspects of statistical inference. I did my master's thesis on Markov Chain Monte Carlo algorithms under the guidance of [Prof. Navin Kashyap](https://ece.iisc.ac.in/~nkashyap/). Long ago, I worked at Texas Instruments, Bangalore as an analog design and characterization engineer. You can find my CV [here](https://github.com/anandjez/anandjez.github.io/files/CV_Anand.pdf). 
 
 Publications
 ======
@@ -29,8 +29,8 @@ Patents
 Projects
 ======
 
-1. Robust Hypothesis Testing
-2. MTech. thesis: Sampling from high-dimensional probability distributions
+1. Robust hypothesis testing
+2. MTech. thesis: [Sampling from high-dimensional probability distributions](https://github.com/anandjez/anandjez.github.io/files/Sampling_MTech_project_final_report.pdf)
 
 ------
 
