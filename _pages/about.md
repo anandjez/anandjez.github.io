@@ -30,7 +30,7 @@ Projects
 ======
 
 1. Robust hypothesis testing
-2. MTech. thesis: [Sampling from high-dimensional probability distributions](https://anandjez.github.io/files/Sampling_MTech_project_final_report.pdf)
+2. [Sampling from high-dimensional probability distributions](https://anandjez.github.io/files/Sampling_MTech_project_final_report.pdf), Master's thesis.
 
 ------
 
